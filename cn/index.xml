@@ -6,7 +6,16 @@
     <description>Recent content on RongZhao Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2021 18:11:46 +0800</lastBuildDate><atom:link href="https://example.com/cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myblog</title>
+      <link>https://example.com/cn/posts/myblog/</link>
+      <pubDate>Sat, 13 Feb 2021 18:11:46 +0800</pubDate>
+      
+      <guid>https://example.com/cn/posts/myblog/</guid>
+      <description>你好</description>
+    </item>
+    
     <item>
       <title>赤壁赋</title>
       <link>https://example.com/cn/posts/cn/</link>
