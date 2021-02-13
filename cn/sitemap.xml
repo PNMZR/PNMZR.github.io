@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/cn/posts/myblog/</loc>
-    <lastmod>2021-02-13T18:11:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/cn/posts/</loc>
+    <loc>https://pnmzr.github.io/cn/</loc>
     <lastmod>2021-02-13T18:11:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/posts/"
+                href="https://pnmzr.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/posts/"
+                href="https://pnmzr.github.io/cn/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/cn/</loc>
+    <loc>https://pnmzr.github.io/cn/posts/myblog/</loc>
+    <lastmod>2021-02-13T18:11:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pnmzr.github.io/cn/posts/</loc>
     <lastmod>2021-02-13T18:11:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://pnmzr.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/"
+                href="https://pnmzr.github.io/cn/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/cn/categories/</loc>
+    <loc>https://pnmzr.github.io/cn/categories/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://pnmzr.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/categories/"
+                href="https://pnmzr.github.io/cn/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/cn/categories/%E8%AF%97%E6%AD%8C/</loc>
+    <loc>https://pnmzr.github.io/cn/categories/%E8%AF%97%E6%AD%8C/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/cn/posts/cn/</loc>
+    <loc>https://pnmzr.github.io/cn/posts/cn/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/cn/tags/</loc>
+    <loc>https://pnmzr.github.io/cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://pnmzr.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/cn/tags/"
+                href="https://pnmzr.github.io/cn/tags/"
                 />
   </url>
   
